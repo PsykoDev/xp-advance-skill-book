@@ -1,0 +1,9 @@
+{
+	"disableAutoUpdate": false,
+	"name": "xp-advance-skill-book",
+	"author": "Owyn",
+	"description": "xp advance skill book",
+	"options": { "niceName": "<font color='#FDD017'>XP</font>", "guiName": "xp advance skill book" },
+	"servers": ["https://raw.githubusercontent.com/PsykoDev/xp-advance-skill-book/master/"],
+	"supportUrl": "https://github.com/PsykoDev/xp-advance-skill-book/issues"
+}
